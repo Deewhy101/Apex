@@ -1,0 +1,182 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(img/kisspng-flower-color-brown-flower-pattern-5aa87db3c00da1.6922694415209916677867.jpg);
+    font-family:"https://fonts.googleapis.com/css?family=Sofia";
+    }
+.navbar{
+  margin-bottom: 70px;
+  
+}
+.navbar .navbar-nav .nav-item{
+  padding: 10px;
+  position: relative;
+  left: 150%;
+}
+.navbar .navbar-nav .nav-item .nav-link{
+      font-size: 20px;
+      color: white;
+}
+.navbar .navbar-nav .nav-item .nav-link:hover{
+  color: burlywood;
+}
+.navbar .navbar-brand{
+  font-size: 30px;
+  font-family:'sofia';
+}
+
+
+/* Style inputs */
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    outline: none;
+  }
+  
+  input[type=submit] {
+    background-color: burlywood;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    margin-bottom: 30px;
+  }
+  
+  input[type=submit]:hover {
+    background-color: burlywood;
+  }
+
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+
+  }
+  
+  .fa-facebook {
+    
+    color: blue;
+    size: 50px;
+  }
+  
+  .fa-twitter {
+    
+    color: white;
+  }
+  
+  .fa-instagram {
+    color: palevioletred;
+  }
+  
+  .fa-whatsapp{
+      color: lawngreen;
+  }
+.row .column .fa{
+    text-decoration: none;
+    transition: none;
+}
+.row .column .fa-facebook:hover{
+    color: blue;
+}
+ .row .column .fa-instagram:hover{
+     color: palevioletred;
+ }
+  .row .column .fa-twitter:hover{
+      color: white;
+  }
+  .row .column .fa-whatsapp:hover{
+      color: lawngreen;
+  }
+  
+  /* Create two columns that float next to eachother */
+  .column {
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+    padding: 20px;
+    
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .container h2{
+      color: white;
+  }
+  .container p{
+      color: white;
+  }
+label{
+    color: white;
+      
+  }
+  
+  /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .column, input[type=submit] {
+      width: 100%;
+      margin-top: 0;
+    }
+  .container{
+      margin-bottom: 60px;
+ 
+}
+  /*-------service-----*/
+.container h2{
+font-size: larger;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
